@@ -37,7 +37,7 @@ Linux: Centos 7.8
 
 The code is mainly in Python using PyTorch or TensorFlow. Dependencies that satisfy all applications include:
 
-- Python 3.6 **The original authors suggest using Python 3.7. But it is not compatible with the TensorFlow version 1.8. So, we suggest Python 3.6. You can check [TensorFlow Original DOcumentation](https://www.tensorflow.org/install/source) for further understanding.**
+- Python 3.6 **The original authors suggest using Python 3.7. But it is not compatible with the TensorFlow version 1.8. So, we suggest Python 3.6. You can check [TensorFlow Original Documentation](https://www.tensorflow.org/install/source) for further understanding.**
 - PyTorch 0.4.1
 - TensorFlow 1.8
 - Torchvision 0.4.0
