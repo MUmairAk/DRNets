@@ -1,6 +1,6 @@
 # Deep Reasoning Networks (DRNets)
 
-This repo contains the working code for the [Deep Reasoning Networks](https://github.com/PiGrieco/DRNets-Nature-Machine-Intelligence) repository. 
+This repo contains the working code for the [Deep Reasoning Networks](https://github.com/PiGrieco/DRNets-Nature-Machine-Intelligence) repository from Cornell University, Dept. of Computer Science. 
 
 
 ## Directory structure
